@@ -33,7 +33,7 @@ menu {
 .main1 {
   display: flex;
   flex-direction: column;
-  background: url("/img/Ekran\ Resmi\ 2025-09-30\ 15.31.57.png") left/cover;
+  background: url("img/Ekran\ Resmi\ 2025-09-30\ 15.31.57.png") left/cover;
   height: 100vh;
   align-items: center;
   justify-content: center;
@@ -154,7 +154,7 @@ menu {
 }
 /*stat hissesi*/
 .stats {
-  background-image: url("/img/statimg.png");
+  background-image: url("img/statimg.png");
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -455,7 +455,7 @@ textarea {
 }
 /*7ci hisse*/
 .main7 .stats {
-  background-image: url("/img/statimg.png");
+  background-image: url("img/statimg.png");
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
